@@ -8,7 +8,6 @@ on:
         type: string
     secrets:
       dockerhubUsername:
-        type: string
         required: true
       dockerhubToken:
         required: true
